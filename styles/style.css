@@ -22,6 +22,11 @@ p {
     line-height: 1.8;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .mt-24 {
     margin-top: 24px;
 }
@@ -55,4 +60,8 @@ p {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 8px;
+}
+
+.image img {
+    border-radius: 6px;
 }
