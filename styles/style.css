@@ -22,6 +22,10 @@ p {
     line-height: 1.8;
 }
 
+.mt-24 {
+    margin-top: 24px;
+}
+
 .container {
     margin-right: 15px;
     margin-left: 15px;
@@ -49,6 +53,6 @@ p {
 
 .card h3 {
     font-size: 24px;
-    font-weight: 600;
-    margin-bottom: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
 }
