@@ -111,10 +111,20 @@ img {
     .masonry {
         columns: 3;
     }
+
+    .col {
+        width: 50%;
+        margin-bottom: 16px;
+    }
 }
 
 @media (max-width : 767px) {
     .masonry {
         columns: 2;
+    }
+
+    .col {
+        width: 100%;
+        margin-bottom: 16px;
     }
 }
